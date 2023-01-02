@@ -1,1 +1,1 @@
-Github repository for Advanced Java practice programs.
+Github repository for Advanced Java & new features practice programs.
